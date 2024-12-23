@@ -1,0 +1,15 @@
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/bin/Debug/net8.0/DesafioPratico
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/bin/Debug/net8.0/DesafioPratico.deps.json
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/bin/Debug/net8.0/DesafioPratico.runtimeconfig.json
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/bin/Debug/net8.0/DesafioPratico.dll
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/bin/Debug/net8.0/DesafioPratico.pdb
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/DesafioPratico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/DesafioPratico.AssemblyInfoInputs.cache
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/DesafioPratico.AssemblyInfo.cs
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/DesafioPratico.csproj.CoreCompileInputs.cache
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/DesafioPratico.sourcelink.json
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/DesafioPratico.dll
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/refint/DesafioPratico.dll
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/DesafioPratico.pdb
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/DesafioPratico.genruntimeconfig.cache
+/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/obj/Debug/net8.0/ref/DesafioPratico.dll

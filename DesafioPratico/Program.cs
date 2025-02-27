@@ -11,10 +11,11 @@
         string desafio = Console.ReadLine()?.Trim().ToUpper() ?? "";
 
         if (desafio == "E")
-        {
-          Console.WriteLine("Aplicação encerrada.");
-          break;
-        }
+          if (desafio == "S")
+          {
+            Console.WriteLine("Aplicação encerrada.");
+            break;
+          }
 
         if (!ExecutarDesafio(desafio))
         {
@@ -43,6 +44,14 @@
       Console.WriteLine("\u2022 5 \u25B6 Validador de placa \u2714");
       Console.WriteLine("\u2022 6 \u25B6 Data Atual (Formatos)\n\n");
       Console.WriteLine("\u25B6 (E) \u25B6 Exit");
+      Console.WriteLine("Escolha o desafio que deseja executar:\n");
+      Console.WriteLine("- 1 - Seu nome");
+      Console.WriteLine("- 2 - Seu nome e seu sobrenome");
+      Console.WriteLine("- 3 - Resultado dos números");
+      Console.WriteLine("- 4 - Quantos Caracteres");
+      Console.WriteLine("- 5 - Placa Válida");
+      Console.WriteLine("- 6 - Data Atual - formatos\n");
+      Console.WriteLine("- S - Sair");
     }
 
     static bool ExecutarDesafio(string desafio)

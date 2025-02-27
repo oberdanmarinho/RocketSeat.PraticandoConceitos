@@ -7,10 +7,10 @@ namespace DesafioPratico
   {
     public static void Executar()
     {
-      Console.WriteLine("Informe seu nome na linha abaixo:");
+      Console.WriteLine("Informe seu primeiro nome na linha abaixo:");
       string nome = Console.ReadLine() ?? "Usuário não informado";
 
-      Console.WriteLine($"Olá, {nome}! Seja muito bem-vindo!");
+      Console.WriteLine($"Olá, {nome}. Seja muito bem-vindo!");
     }
   }
 }

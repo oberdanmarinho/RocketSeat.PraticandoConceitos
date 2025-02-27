@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-
 namespace DesafioPratico
 {
   class Exercicio1

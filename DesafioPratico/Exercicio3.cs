@@ -9,12 +9,12 @@ namespace DesafioPratico
       while (true)
       {
         Console.Clear();
-        Console.WriteLine("1 - Soma");
+        Console.WriteLine("\n1 - Soma");
         Console.WriteLine("2 - Subtração");
         Console.WriteLine("3 - Multiplicação");
         Console.WriteLine("4 - Divisão");
         Console.WriteLine("5 - Média");
-        Console.WriteLine("6 - Sair");
+        Console.WriteLine("\n6 - Voltar");
 
         string entrada = Console.ReadLine()?.Trim() ?? "";
 
@@ -28,13 +28,12 @@ namespace DesafioPratico
 
         if (opcao >= '1' && opcao <= '5')
         {
-          Console.WriteLine("/nInforme o primeiro númeoro:");
-          double primeiroNumero = ObterNumero();
+          Console.WriteLine("\nInforme o primeiro número:");
+          double n1 = ObterNumero();
 
           Console.WriteLine("Informe o segundo número:");
-          double segundoNumeor = ObterNumero();
-
-          double resultado = ExecutarOperacao(opcao, primeiroNumero, segundoNumeor);
+          double n2 = ObterNumero();
+          double resultado = ExecutarOperacao(opcao, n1, n2);
 
           Console.WriteLine($"Resultado: {resultado}");
         }

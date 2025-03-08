@@ -36,10 +36,10 @@
       Console.Clear();
       Console.WriteLine("Escolha o desafio que deseja executar:\n");
       Console.WriteLine("- 1 - Seu nome - DONE");
-      Console.WriteLine("- 2 - Seu nome e seu sobrenome - DONE");
+      Console.WriteLine("- 2 - Nome e sobrenome - DONE");
       Console.WriteLine("- 3 - Resultado dos números - DONE");
-      Console.WriteLine("- 4 - Quantos Caracteres - DONE");
-      Console.WriteLine("- 5 - Placa Válida");
+      Console.WriteLine("- 4 - Contador de Caracteres - DONE");
+      Console.WriteLine("- 5 - Validador de placa");
       Console.WriteLine("- 6 - Data Atual - formatos\n");
       Console.WriteLine("- S - Sair");
     }

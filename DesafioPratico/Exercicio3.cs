@@ -4,6 +4,7 @@ namespace DesafioPratico
   {
     public static void Executar()
     {
+      Console.WriteLine("Exercício 3\n");
       Console.WriteLine("Escolha a operação que deseja\n");
 
       while (true)

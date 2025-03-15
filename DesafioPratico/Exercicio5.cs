@@ -11,7 +11,7 @@ namespace DesafioPratico
 
       do
       {
-        Console.Write("Digite a placa do veículo");
+        Console.Write("Digite a placa do veículo. Respeite este padrão: XXX-0000\n");
         placa = Console.ReadLine()?.ToUpper().Trim() ?? "";
 
         if (string.IsNullOrEmpty(placa))
@@ -21,9 +21,9 @@ namespace DesafioPratico
       } while (string.IsNullOrEmpty(placa));
 
       if (ValidaPlacaAntiga(placa))
-        Console.WriteLine("O formato da placa é valido.");
+        Console.WriteLine($"A placa {placa} informada, está no formato valido.");
       else
-        Console.WriteLine("O formato da placa não é válido.");
+        Console.WriteLine($"A palca {placa} informada não está no formato válido.");
     }
 
     static bool ValidaPlacaAntiga(string placa)

@@ -10,7 +10,7 @@
 
         string desafio = Console.ReadLine()?.Trim().ToUpper() ?? "";
 
-        if (desafio == "S")
+        if (desafio == "E")
         {
           Console.WriteLine("Aplicação encerrada.");
           break;
@@ -34,14 +34,15 @@
     static void ExibirDesafio()
     {
       Console.Clear();
-      Console.WriteLine("Escolha o desafio que deseja executar:\n");
-      Console.WriteLine("- 1 - Seu nome - DONE");
-      Console.WriteLine("- 2 - Nome e sobrenome - DONE");
-      Console.WriteLine("- 3 - Resultado dos números - DONE");
-      Console.WriteLine("- 4 - Contador de Caracteres - DONE");
-      Console.WriteLine("- 5 - Validador de placa");
-      Console.WriteLine("- 6 - Data Atual - formatos\n");
-      Console.WriteLine("- S - Sair");
+      Console.WriteLine("\u2591 Desafio Prático RocketSeat\n");
+      Console.WriteLine(" Escolha o desafio que deseja executar:\n");
+      Console.WriteLine("\u2022 1 \u25B6 Seu nome \u2714");
+      Console.WriteLine("\u2022 2 \u25B6 Nome e sobrenome \u2714");
+      Console.WriteLine("\u2022 3 \u25B6 Resultado dos números \u2714");
+      Console.WriteLine("\u2022 4 \u25B6 Contador de Caracteres \u2714");
+      Console.WriteLine("\u2022 5 \u25B6 Validador de placa \u2714");
+      Console.WriteLine("\u2022 6 \u25B6 Data Atual (Formatos)\n\n");
+      Console.WriteLine("\u25B6 (E) \u25B6 Exit");
     }
 
     static bool ExecutarDesafio(string desafio)

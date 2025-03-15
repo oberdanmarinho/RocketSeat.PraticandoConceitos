@@ -4,7 +4,7 @@ namespace DesafioPratico
   {
     public static void Executar()
     {
-
+      Console.WriteLine("Exercício 6");
     }
   }
 }

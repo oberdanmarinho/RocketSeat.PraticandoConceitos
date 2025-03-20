@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioPratico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd10bc5c87611c24a32a14473b2be1d5ece9ccae")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+641b8e9f62910c6e1b05ede65ebadd0c256d7af2")]
+>>>>>>> 8ef9a11 (Corrigindo ambiente)
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioPratico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioPratico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

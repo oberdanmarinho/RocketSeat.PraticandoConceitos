@@ -19,7 +19,7 @@ namespace DesafioPratico
         Console.WriteLine("\n6 - Voltar");
         Console.WriteLine("6 - Sair");
 
-        string entrada = Console.ReadLine()?.Trim() ?? "";
+        string entrada = Console.ReadLine()?.Trim() ?? string.Empty;
 
         if (entrada == "6")
         {

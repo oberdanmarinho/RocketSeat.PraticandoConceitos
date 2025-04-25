@@ -8,17 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883f07ba-b608-4f20-aa83-ee4599bd954a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/Exercicio3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/Exercicio3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/bin/Debug/net8.0/DesafioPratico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/bin/Debug/net8.0/DesafioPratico.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/bin/Debug/net8.0/DesafioPratico.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/bin/Debug/net8.0/DesafioPratico.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/DesafioPratico.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/ref/DesafioPratico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/ref/DesafioPratico.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/refint/DesafioPratico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/Debug/net8.0/refint/DesafioPratico.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/DesafioPratico.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/DesafioPratico.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioPratico/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioPratico/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.DesafioPratico.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.DesafioPratico.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="DesafioPratico" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -88,6 +82,7 @@
       <updated>1740623358380</updated>
       <workItem from="1740623359832" duration="12788000" />
       <workItem from="1740707320949" duration="2114000" />
+      <workItem from="1745591003051" duration="6000" />
     </task>
     <servers />
   </component>
@@ -98,25 +93,6 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/DesafioPratico/Exercicio3.cs</url>
-          <line>30</line>
-          <properties documentPath="$PROJECT_DIR$/DesafioPratico/Exercicio3.cs" containingFunctionPresentation="Method 'Executar'">
-            <startOffsets>
-              <option value="770" />
-            </startOffsets>
-            <endOffsets>
-              <option value="820" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

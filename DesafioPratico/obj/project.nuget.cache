@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "63EOXC4cmpY=",
+  "dgSpecHash": "9ed4ASqiLcg=",
   "success": true,
-  "projectFilePath": "/Users/oberdanmarinho/Development/Studies/RocketSeat/RocketSeat.PraticandoConceitos/DesafioPratico/DesafioPratico.csproj",
+  "projectFilePath": "D:\\Develop\\Studies\\Rocketseat\\Rocketseat.FormacaoC#\\RocketSeat.PraticandoConceitos\\DesafioPratico\\DesafioPratico.csproj",
   "expectedPackageFiles": [
-    "/Users/oberdanmarinho/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
-    "/Users/oberdanmarinho/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
-    "/Users/oberdanmarinho/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+    "C:\\Users\\oberd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\oberd\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\oberd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\oberd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
   ],
   "logs": []
 }

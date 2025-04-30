@@ -40,8 +40,8 @@
 			Console.WriteLine("1 Seu nome - OK");
 			Console.WriteLine("2 Nome e sobrenome - OK");
 			Console.WriteLine("3 Calculadora - OK");
-			Console.WriteLine("4 Contador de Caracteres");
-			Console.WriteLine("5 Validador de placa");
+			Console.WriteLine("4 Contador de Caracteres - OK");
+			Console.WriteLine("5 Validador de placa - OK");
 			Console.WriteLine("6 Data Atual (Formatos)\n");
 			Console.WriteLine("(E) Exit");
 		}

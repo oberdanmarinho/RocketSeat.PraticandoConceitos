@@ -36,10 +36,10 @@
 		{
 			Console.Clear();
 			Console.WriteLine("Desafio Prático RocketSeat\n");
-			Console.WriteLine("Seleione uma das opções abaixoe:\n");
-			Console.WriteLine("1 Seu nome");
-			Console.WriteLine("2 Nome e sobrenome");
-			Console.WriteLine("3 Resultado dos números");
+			Console.WriteLine("Seleione uma das opções abaixo:\n");
+			Console.WriteLine("1 Seu nome - OK");
+			Console.WriteLine("2 Nome e sobrenome - OK");
+			Console.WriteLine("3 Calculadora - OK");
 			Console.WriteLine("4 Contador de Caracteres");
 			Console.WriteLine("5 Validador de placa");
 			Console.WriteLine("6 Data Atual (Formatos)\n");

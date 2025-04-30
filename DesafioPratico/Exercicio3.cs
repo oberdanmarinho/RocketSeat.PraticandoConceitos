@@ -4,19 +4,18 @@ namespace DesafioPratico
   {
     public static void Executar()
     {
+      Console.Clear();
       Console.WriteLine("Exercício 3\n");
       Console.WriteLine("Escolha a operação que deseja\n");
 
       while (true)
       {
-        Console.Clear();
         Console.WriteLine("\n1 - Soma");
         Console.WriteLine("2 - Subtração");
         Console.WriteLine("3 - Multiplicação");
         Console.WriteLine("4 - Divisão");
-        Console.WriteLine("5 - Média");
-        Console.WriteLine("\n6 - Voltar");
-        Console.WriteLine("6 - Sair");
+        Console.WriteLine("5 - Média\n");
+        Console.WriteLine("6 - Encerrar\n");
 
         string entrada = Console.ReadLine()?.Trim() ?? string.Empty;
 
@@ -35,16 +34,22 @@ namespace DesafioPratico
 
           Console.WriteLine("Informe o segundo número:");
           double n2 = ObterNumero();
+
           double resultado = ExecutarOperacao(opcao, n1, n2);
-
-          Console.WriteLine("/nInforme o primeiro númeoro:");
-          double primeiroNumero = ObterNumero();
-
           Console.WriteLine($"Resultado: {resultado}");
+
+          Console.WriteLine("\nPressiona qualquer tecla para continuar...");
+          Console.ReadKey();
+        }
+        else if (opcao == '6')
+        {
+          break;
         }
         else
         {
           Console.WriteLine("Opção inválida. Tente novamente.");
+          // Console.WriteLine("\nPressione qualquer tecla para continuar");
+          // Console.ReadKey();
         }
       }
     }

@@ -7,6 +7,7 @@ namespace DesafioPratico
   {
     public static void Executar()
     {
+      Console.Clear();
       Console.WriteLine("Exercício 2\n");
       Console.WriteLine("Olá seja bem vindo. Informe seu primeiro nome na linha abaixo:");
       string nome = Console.ReadLine() ?? "Usuário não informado";

@@ -11,16 +11,26 @@
 				string desafio = Console.ReadLine()?.Trim().ToUpper() ?? "";
 
 				if (desafio == "E")
-					if (desafio == "S")
+				{
+					Console.WriteLine("Tem ceteza que deseja sair ? (S/N)");
+					string confirmar = Console.ReadLine()?.Trim().ToUpper() ?? "";
+
+					if (confirmar == "S")
 					{
 						Console.WriteLine("Aplicação encerrada.");
 						break;
 					}
+					else
+					{
+						Console.WriteLine("Voltando ao menu...");
+						continue;
+					}
+				}
 
 				if (!ExecutarDesafio(desafio))
 				{
 					Console.WriteLine("\nDesafio não encontrado! Tente novamente");
-					Console.WriteLine("Presisone Enter para continuar...");
+					Console.WriteLine("Presione Enter para continuar...");
 					Console.ReadKey();
 				}
 

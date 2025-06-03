@@ -47,13 +47,13 @@
 			Console.Clear();
 			Console.WriteLine("Desafio Prático RocketSeat\n");
 			Console.WriteLine("Seleione uma das opções abaixo:\n");
-			Console.WriteLine("1 Seu nome - OK");
-			Console.WriteLine("2 Nome e sobrenome - OK");
-			Console.WriteLine("3 Calculadora - OK");
-			Console.WriteLine("4 Contador de Caracteres - OK");
-			Console.WriteLine("5 Validador de placa - OK");
+			Console.WriteLine("1 Seu nome");
+			Console.WriteLine("2 Nome e sobrenome");
+			Console.WriteLine("3 Calculadora");
+			Console.WriteLine("4 Contador de Caracteres");
+			Console.WriteLine("5 Validador de placa");
 			Console.WriteLine("6 Data Atual (Formatos)\n");
-			Console.WriteLine("(E) Exit");
+			Console.WriteLine("(E) Exit\n");
 		}
 
 		static bool ExecutarDesafio(string desafio)
@@ -87,7 +87,7 @@
 		{
 			while (true)
 			{
-				Console.WriteLine("\nDeseja executar outro desafio ? S - Sim | N - Não");
+				Console.WriteLine("\nDeseja executar outro desafio ? S/N");
 				string resposta = Console.ReadLine()?.ToUpper() ?? string.Empty;
 
 				if (resposta == "S")
@@ -95,7 +95,7 @@
 				if (resposta == "N")
 					return false;
 
-				Console.WriteLine("Opção invalida. Digite apenas 'S' para sim ou 'N' para não");
+				Console.WriteLine("Opção invalida. Digite apenas 'S' para SIM ou 'N' para NÃO");
 			}
 		}
 	}

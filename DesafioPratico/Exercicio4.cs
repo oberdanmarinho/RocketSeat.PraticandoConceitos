@@ -4,6 +4,7 @@ namespace DesafioPratico
   {
     public static void Executar()
     {
+      Console.Clear();
       Console.WriteLine("Exercício 4\n");
       Console.WriteLine("Digite uma palavra ou uma frase:");
       string palavraDigitada = Console.ReadLine()?.Trim() ?? string.Empty;

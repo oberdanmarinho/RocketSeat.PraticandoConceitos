@@ -6,6 +6,7 @@ namespace DesafioPratico
   {
     public static void Executar()
     {
+      Console.Clear();
       Console.WriteLine("Exercício 5\n");
       string placa;
 

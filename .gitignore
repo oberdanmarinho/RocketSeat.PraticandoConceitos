@@ -1,0 +1,7 @@
+# Pastas de configurações de IDEs
+.idea/
+.vscode/
+.vs/
+
+# Pasta obj dentro de qualqer subdiretório
+**.obj/

@@ -4,4 +4,4 @@
 .vs/
 
 # Pasta obj dentro de qualqer subdiretório
-**.obj/
+**/obj/
